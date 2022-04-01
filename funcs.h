@@ -1,8 +1,11 @@
+
 #pragma once
 #include <vector>
+#include <iostream>
 
-std::vector<double> frequency(std::string str);
-
+int charIndex(char o);
+char shiftChar(char o, int sh);
+std::string encryptCaesar(std::string o, int shift);
+std::vector<double> frequency(std::string input);
+double distance(std::vector<double> a, std::vector<double> b);
 std::string solve(std::string encrypted_string);
-
-double dist(std::vector<double> v1, std::vector<double> v2);
