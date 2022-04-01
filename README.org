@@ -1,10 +1,10 @@
 * Fall 2021 - Lab Cipher
 
-* Last name:
+* Last name: Clarke
 
-* First name:
+* First name: Ian
 
-* GitHub username:
+* GitHub username: ianclarke03
 
 * Notes:
 
